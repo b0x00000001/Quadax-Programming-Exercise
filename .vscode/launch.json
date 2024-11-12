@@ -9,7 +9,7 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/bin/Debug/netcoreapp2.1/QuadaxProgrammingProject.dll",
+            "program": "${workspaceFolder}/bin/Debug/netcoreapp8.0/QuadaxProgrammingProject.dll",
             "args": [],
             "cwd": "${workspaceFolder}",
             "console": "internalConsole",
