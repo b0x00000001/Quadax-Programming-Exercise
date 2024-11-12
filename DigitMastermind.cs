@@ -12,7 +12,8 @@ namespace QuadaxProgrammingProject
             const int numGuesses = 10;
             const int largestDigit = 6;
             
-            //Generate true answer
+            //Randomly generate answer
+            //Duplicate digits are allowed
             Random rand = new Random();
             int[] trueDigits = new int[numDigits];
             for(int i = 0; i < numDigits; i++){
